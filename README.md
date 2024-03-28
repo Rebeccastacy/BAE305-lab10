@@ -12,6 +12,7 @@ This lab had three parts: create a GitHub account, learn to fork a repository, a
 
 [Lab 10 full code](https://github.com/Rebeccastacy/HEC-2109-2-Lab1/blob/main/Lab1%20(1).ipynb)
 
+Section of above code that was not already written:
 ``` python
 def reversePoem(instring):
     backPoem = ''
