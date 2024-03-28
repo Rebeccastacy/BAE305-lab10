@@ -1,6 +1,2 @@
-# HEC-2109-2-Lab1
+Jupyter binder link: https://mybinder.org/v2/gh/jvkrogmeier/HEC-2109-2-Lab1/1e69f9fd14eb25ee6bd7616b84e1330963ebc6c7?urlpath=lab%2Ftree%2FLab1.ipynb 
 
-Contains material and python code needed for HEC Class Two Week Python Module in September 2021
-
-Click here to run in mybinder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/jvkrogmeier/HEC-2109-2-Lab1/HEAD)
