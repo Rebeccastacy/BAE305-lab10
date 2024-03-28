@@ -10,7 +10,7 @@ This lab had three parts: create a GitHub account, learn to fork a repository, a
 
 ## Code
 
-[Lab 10 code](https://github.com/Rebeccastacy/HEC-2109-2-Lab1/blob/main/Lab1%20(1).ipynb)
+[Lab 10 full code](https://github.com/Rebeccastacy/HEC-2109-2-Lab1/blob/main/Lab1%20(1).ipynb)
 
 ``` python
 def reversePoem(instring):
