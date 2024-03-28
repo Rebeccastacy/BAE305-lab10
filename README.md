@@ -8,7 +8,7 @@ March 28th, 2024
 
 ## Code
 
-[Link to Code](https://github.com/Rebeccastacy/HEC-2109-2-Lab1/blob/main/Lab1%20(1).ipynb)
+[Lab 10 code](https://github.com/Rebeccastacy/HEC-2109-2-Lab1/blob/main/Lab1%20(1).ipynb)
 
 ## Conclusion
 
